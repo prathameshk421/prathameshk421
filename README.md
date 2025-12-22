@@ -13,7 +13,7 @@
 
 ## 🛠 About Me
 
-- 🎓 Strong foundation in **Data Structures, Algorithms**
+- 🎓 Strong foundation in **Data Structures & Algorithms**
 - 🧠 Actively working with **AI/ML, LLMs, and NLP pipelines**
 - ⚙️ Experience building **backend systems, APIs, and document processing pipelines**
 - 🔐 Interested in **security, cryptography, and blockchain-based architectures**
@@ -26,7 +26,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,js,ts,fastapi,react,nodejs,mongodb,mysql,postgres,git,github,docker,linux,opencv,pytorch,tensorflow,sklearn,postman,figma,vscode&perline=6" />
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,fastapi,react,nodejs,mongodb,mysql,git,github,linux,opencv,sklearn,postman,figma,vscode&perline=6" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 ## 🤝 Let’s Connect
 
 <p align="left">
-  <a href="[https://www.linkedin.com/in/YOUR-LINKEDIN/](https://www.linkedin.com/in/prathamesh-kinagi-854781320/)" target="_blank">
+  <a href="https://www.linkedin.com/in/prathamesh-kinagi-854781320/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40"/>
   </a>
 </p>
@@ -58,14 +58,7 @@
 
 💬 I enjoy deep dives into **how systems work under the hood** — from cryptographic verification to LLM inference pipelines.
 
-<!-- Pacman Contribution Graph -->
+<!-- Snake Contribution Animation -->
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/prathameshk421/prathameshk421/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
-
-<!-- Pacman style contribution -->
-<p align="center">
-  <img src="https://github.com/rafaballerini/rafaballerini/raw/output/github-contribution-grid-pacman.svg" alt="pacman animation"/>
-</p>
-
-
