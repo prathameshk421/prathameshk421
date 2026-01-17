@@ -36,8 +36,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathameshk421&show_icons=true&theme=react" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshk421&layout=compact&theme=react" width="48%" />
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/prathameshk421?cardType=github&theme=dark&fontFamily=&preferLogin=false">
 </p>
 
 <!-- Gradient Divider -->
