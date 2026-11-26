@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/gta6-cat-banner.jpg" alt="Prathamesh Kinagi — Vice City Header"/>
+  <img width="100%" src="./assets/gta6-dev-cat-banner.jpg" alt="Prathamesh Kinagi — Vice City Dev Cat Header"/>
 </p>
 
 <p align="center">
