@@ -35,7 +35,7 @@
 | Project | Stack | What it does |
 | :--- | :--- | :--- |
 | **[Heimdall](https://github.com/prathameshk421/Heimdall)** | Go, Podman, MCP, FalkorDB, PostgreSQL, AWS | Sandboxed AI agent harness and autonomous PR engine; runs untrusted agents in rootless Podman containers with knowledge-graph codebase memory. |
-| **[Tokenhound](https://github.com/prathameshk421/LLM_Cost_Investigator)** | Python, FastAPI, DuckDB, OpenTelemetry, Langfuse, Kafka | Real-time LLM cost observability and anomaly detection; flags spend spikes in 1–4 min (99.1% recall, 0.5% false alarms on synthetic benchmarks). |
+| **[Tokenhound](https://github.com/prathameshk421/Tokenhound)** | Python, FastAPI, DuckDB, OpenTelemetry, Langfuse, Kafka | Real-time LLM cost observability and anomaly detection; flags spend spikes in 1–4 min (99.1% recall, 0.5% false alarms on synthetic benchmarks). |
 | **[Lexsi Hackathon Project](https://github.com/prathameshk421/lexsi_hackathon)** | Python, PyTorch, Hugging Face, LoRA (SFT + GRPO) | Post-trained a 3.35B open-weights LLM for low-cost multi-turn SQL tool-calling; raised held-out task success from 8% to 50% and halved latency. |
 | **[Amazon ML Challenge 2026](https://github.com/prathameshk421/amazon-ml-challenge-2026-entity-resolution)** | Python, LightGBM, PyTorch, LoRA, Sentence Embeddings | 3-stage multilingual business entity matching across 1.7M × 10M records (**0.984 F₀.₅**, Rank 677 / ~24,000 teams). |
 | **[Early Signal](https://github.com/prathameshk421/delinquency-ews)** | Python, LightGBM, PyTorch GRU, SHAP, FastAPI, React | Loan default early-warning ensemble (**0.941 AUC**, 89.5% recall) that flags 78% of defaults a median of 3 weeks early with calibrated risk tiers. |
