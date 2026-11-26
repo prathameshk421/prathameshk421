@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prathamesh-kinagi-854781320/">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzcwYTVmZCI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D" alt="LinkedIn"/>
   </a>
   <a href="mailto:prathameshkinagi421@gmail.com">
     <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=38bdae" alt="Email"/>
@@ -75,22 +75,23 @@
 
 **AI, ML & Observability**
 <p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-1a1b27?style=flat-square&logoColor=white" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/MCP-1a1b27?style=flat-square&logoColor=white" alt="MCP"/>
-  <img src="https://img.shields.io/badge/RAG_%2F_pgvector_%2F_FAISS-1a1b27?style=flat-square&logoColor=white" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-1a1b27?style=flat-square&logoColor=white" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LoRA_%2F_SFT_%2F_GRPO-1a1b27?style=flat-square&logoColor=white" alt="LLM Post-Training"/>
+  <img src="https://img.shields.io/badge/LangGraph-1a1b27?style=flat-square&logo=langgraph&logoColor=70a5fd" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/MCP-1a1b27?style=flat-square&logo=modelcontextprotocol&logoColor=38bdae" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG_%2F_pgvector_%2F_FAISS-1a1b27?style=flat-square&logo=postgresql&logoColor=70a5fd" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-1a1b27?style=flat-square&logo=huggingface&logoColor=e0af68" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LoRA_%2F_SFT_%2F_GRPO-1a1b27?style=flat-square&logo=pytorch&logoColor=f7768e" alt="LLM Post-Training"/>
   <img src="https://img.shields.io/badge/LightGBM-1a1b27?style=flat-square&logoColor=white" alt="LightGBM"/>
   <img src="https://img.shields.io/badge/XGBoost-1a1b27?style=flat-square&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/scikit--learn-1a1b27?style=flat-square&logoColor=white" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/scikit--learn-1a1b27?style=flat-square&logo=scikitlearn&logoColor=ff9e64" alt="scikit-learn"/>
   <img src="https://img.shields.io/badge/SHAP-1a1b27?style=flat-square&logoColor=white" alt="SHAP"/>
-  <img src="https://img.shields.io/badge/YOLOv12_%2F_OpenCV-1a1b27?style=flat-square&logoColor=white" alt="YOLOv12 and OpenCV"/>
-  <img src="https://img.shields.io/badge/DuckDB-1a1b27?style=flat-square&logoColor=white" alt="DuckDB"/>
+  <img src="https://img.shields.io/badge/YOLOv12-1a1b27?style=flat-square&logo=ultralytics&logoColor=70a5fd" alt="YOLOv12"/>
+  <img src="https://img.shields.io/badge/OpenCV-1a1b27?style=flat-square&logo=opencv&logoColor=38bdae" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/DuckDB-1a1b27?style=flat-square&logo=duckdb&logoColor=e0af68" alt="DuckDB"/>
   <img src="https://img.shields.io/badge/FalkorDB-1a1b27?style=flat-square&logoColor=white" alt="FalkorDB"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-1a1b27?style=flat-square&logoColor=white" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-1a1b27?style=flat-square&logo=opentelemetry&logoColor=7dcfff" alt="OpenTelemetry"/>
   <img src="https://img.shields.io/badge/Langfuse-1a1b27?style=flat-square&logoColor=white" alt="Langfuse"/>
-  <img src="https://img.shields.io/badge/Podman-1a1b27?style=flat-square&logoColor=white" alt="Podman"/>
-  <img src="https://img.shields.io/badge/Playwright_%2F_Vitest-1a1b27?style=flat-square&logoColor=white" alt="Playwright and Vitest"/>
+  <img src="https://img.shields.io/badge/Podman-1a1b27?style=flat-square&logo=podman&logoColor=bb9af7" alt="Podman"/>
+  <img src="https://img.shields.io/badge/Playwright_%2F_Vitest-1a1b27?style=flat-square&logo=vitest&logoColor=9ece6a" alt="Playwright and Vitest"/>
 </p>
 
 ---
