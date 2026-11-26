@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bb9af7&height=180&section=header&text=Prathamesh%20Kinagi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%2C%20AI%20Systems%20%26%20Cloud%20Deployment&descAlignY=60&descSize=16" alt="Prathamesh Kinagi Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bb9af7&height=180&section=header&text=Prathamesh%20Kinagi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20Systems%20%C2%B7%20Cloud%20Deployment&descAlignY=60&descSize=16" alt="Prathamesh Kinagi Header"/>
 </p>
 
 <p align="center">
