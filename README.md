@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="100%" src="./assets/gta6-dev-cat-banner.jpg" alt="Prathamesh Kinagi — Vice City Dev Cat Header"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,50:6366f1,100:ec4899&height=180&section=header&text=Prathamesh%20Kinagi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20Systems%20%C2%B7%20Cloud%20Deployment&descAlignY=60&descSize=16" alt="Prathamesh Kinagi Header"/>
 </p>
 
 <p align="center">
