@@ -1,11 +1,11 @@
 <h1 align="center">Prathamesh Kinagi</h1>
 
 <p align="center">
-  AI Systems, ML & Backend Engineering
+  Full-Stack, AI Systems & Cloud Deployment
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&center=true&vCenter=true&width=720&color=70A5FD&lines=Sandboxed+AI+Agents+%26+LLM+Observability;LLM+Post-Training+(LoRA%2C+SFT%2C+GRPO)+%26+ML;Go%2C+Python%2C+Rust+%26+TypeScript+Systems;Competitive+Programming+%E2%80%94+CF+Pupil+%C2%B7+CC+3%E2%98%85" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&center=true&vCenter=true&width=720&color=70A5FD&lines=Full-Stack+Web+Apps+%26+Backend+Systems;AI+Agents%2C+LLM+Post-Training+%26+Observability;Cloud+Deployment+%E2%80%94+AWS%2C+GCP%2C+Docker+%26+Terraform;Competitive+Programming+%E2%80%94+CF+Pupil+%C2%B7+CC+3%E2%98%85" alt="Typing SVG"/>
 </p>
 
 <p align="center">
