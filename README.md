@@ -1,232 +1,105 @@
-<!-- ========================== HEADER ========================== -->
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<h1 align="center">Hi 👋, I'm Prathamesh Kinagi</h1>
-
-<h3 align="center">
-Full Stack Developer • AI Engineer • Competitive Programmer
-</h3>
+<h1 align="center">Prathamesh Kinagi</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&center=true&vCenter=true&width=850&lines=Full+Stack+Developer;Building+AI+Applications;LangGraph+%7C+RAG+%7C+Multi-Agent+Systems;Backend+Engineering+%26+System+Design;Competitive+Programmer;Always+Learning."/>
+  <b>B.Tech Information Technology @ PICT (CGPA 9.39)</b> &nbsp;·&nbsp; AI Systems, ML & Backend Engineering
 </p>
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=prathameshk421&label=Profile+Views&color=0e75b6"/>
-
-<img src="https://img.shields.io/github/followers/prathameshk421?style=social"/>
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&center=true&vCenter=true&width=720&color=70A5FD&lines=Sandboxed+AI+Agents+%26+LLM+Observability;LLM+Post-Training+(LoRA%2C+SFT%2C+GRPO)+%26+ML;Go%2C+Python+%26+TypeScript+Backend+Systems;Competitive+Programming+%E2%80%94+CF+Pupil+%C2%B7+CC+3%E2%98%85" alt="Typing SVG"/>
 </p>
 
----
-
-# 💫 About Me
-
-```cpp
-class Prathamesh {
-
-public:
-
-    string role = "Full Stack Developer";
-
-    vector<string> interests = {
-        "Artificial Intelligence",
-        "Backend Engineering",
-        "System Design",
-        "Competitive Programming",
-        "Distributed Systems"
-    };
-
-    void currentlyBuilding(){
-
-        cout<<"Agentic AI Applications"<<endl;
-        cout<<"RAG Systems"<<endl;
-        cout<<"Scalable Backend APIs"<<endl;
-        cout<<"Open Source"<<endl;
-
-    }
-
-};
-```
-
-- 🎓 B.Tech Information Technology @ PICT (CGPA **9.39**)
-- 🌐 Full Stack Developer specializing in scalable web applications
-- 🤖 Building AI applications using **LLMs, LangGraph, RAG & Multi-Agent Systems**
-- ⚡ Strong foundation in **DSA, System Design & Backend Engineering**
-- ☁️ Currently exploring **Cloud, Kubernetes & AI Infrastructure**
-- 🏆 Codeforces **Pupil** • CodeChef **3★**
-- 🚀 Passionate about solving real-world problems with software
-
----
-
-# 💻 Tech Stack
-
-## Languages
+<p align="center">
+  <a href="https://www.linkedin.com/in/prathamesh-kinagi-854781320/">
+    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=linkedin&logoColor=70a5fd" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:prathameshkinagi421@gmail.com">
+    <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=38bdae" alt="Email"/>
+  </a>
+  <a href="https://codeforces.com/profile/Benzene-C6H6">
+    <img src="https://img.shields.io/badge/Codeforces-1a1b27?style=for-the-badge&logo=codeforces&logoColor=38bdae" alt="Codeforces"/>
+  </a>
+  <a href="https://www.codechef.com/users/prathameshk28">
+    <img src="https://img.shields.io/badge/CodeChef-1a1b27?style=for-the-badge&logo=codechef&logoColor=bb9af7" alt="CodeChef"/>
+  </a>
+</p>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=cpp,java,python,js,ts,sql&perline=6"/>
+  <img src="https://komarev.com/ghpvc/?username=prathameshk421&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/prathameshk421?style=flat-square&color=38bdae&labelColor=1a1b27" alt="GitHub Followers"/>
 </p>
 
 ---
 
-## Frontend
+### Selected Work
+
+| Project | Stack | What it does |
+| :--- | :--- | :--- |
+| **[Heimdall](https://github.com/prathameshk421/Heimdall)** | Go, Podman, MCP, FalkorDB, PostgreSQL, AWS | Sandboxed AI agent harness and autonomous PR engine; runs untrusted agents in rootless Podman containers with knowledge-graph codebase memory. |
+| **[Tokenhound](https://github.com/prathameshk421/LLM_Cost_Investigator)** | Python, FastAPI, DuckDB, OpenTelemetry, Langfuse, Kafka | Real-time LLM cost observability and anomaly detection; flags spend spikes in 1–4 min (99.1% recall, 0.5% false alarms on synthetic benchmarks). |
+| **[Frugal Analyst](https://github.com/prathameshk421/lexsi_hackathon)** | Python, PyTorch, Hugging Face, LoRA (SFT + GRPO) | Post-trained a 3.35B open-weights LLM for low-cost multi-turn SQL tool-calling; raised held-out task success from 8% to 50% and halved latency (Top 10%, Lexsi Hackathon). |
+| **[Entity Resolution](https://github.com/prathameshk421/amazon-ml-challenge-2026-entity-resolution)** | Python, LightGBM, PyTorch, LoRA, Sentence Embeddings | 3-stage multilingual business entity matching across 1.7M × 10M records; **Rank 677 / ~24,000 teams (Top 3%)** with **0.984 F₀.₅** at Amazon ML Challenge 2026. |
+| **[Early Signal](https://github.com/prathameshk421/delinquency-ews)** & **[HoH](https://github.com/aarush323/HoH)** | Python, LightGBM, PyTorch GRU, LangGraph, Kafka, SHAP | Loan default early-warning ensemble (**0.941 AUC**, flags 78% of defaults 3 weeks early) wired into a LangGraph multi-agent intervention pipeline. |
+| **[Unified Org Workspace](https://github.com/prathameshk421/unified-org-workspace)** | Next.js, TypeScript, Express, PostgreSQL, Terraform, GCP | Multi-tenant ticketing and review platform with RBAC, session-scoped tenant isolation, append-only audit logs, and Playwright E2E CI. |
+
+---
+
+### Experience & Highlights
+
+- **Backend Developer, PASC — Pulzion '26 Online Exam Platform:** Built the Node.js, TypeScript, PostgreSQL, and Redis backend on AWS; cut batch scoring **40x** (21s → 0.5s for 3,000 tests) and served **125 concurrent users** on one 0.5-vCPU container with zero errors.
+- **AI/ML Contributor, PASC — [UPI Payment Verification](https://github.com/PICT-ACM-Student-Chapter/Payment-Verification-OCR-2025/tree/feature-react-fastapi-migration):** Trained a YOLOv12 + OpenCV + Tesseract OCR pipeline (**93.7% accuracy**) shipped in a React and FastAPI app with duplicate checks and CSV export.
+- **Competitions & OSS:** Top 10% (Top 35 / ~400) Lexsi AI Safety & Alignment Hackathon · Top 3% (Rank 677 / ~24,000) Amazon ML Challenge 2026 · 2nd place PASC Kaggle ML · Rank 278 Social Winter of Code (4 merged PRs).
+
+---
+
+### Tech Stack
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,vite&perline=6"/>
+  <img src="https://skillicons.dev/icons?i=py,go,cpp,ts,js,java,postgres,redis,kafka,fastapi,nodejs,react,nextjs,pytorch,docker,aws,gcp,terraform,linux,git&perline=10" alt="Tech Stack"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/LangGraph-1a1b27?style=flat-square&logoColor=white" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/MCP-1a1b27?style=flat-square&logoColor=white" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG_%2F_pgvector-1a1b27?style=flat-square&logoColor=white" alt="RAG"/>
+  <img src="https://img.shields.io/badge/LoRA_%2F_SFT_%2F_GRPO-1a1b27?style=flat-square&logoColor=white" alt="LLM Post-Training"/>
+  <img src="https://img.shields.io/badge/LightGBM-1a1b27?style=flat-square&logoColor=white" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/DuckDB-1a1b27?style=flat-square&logoColor=white" alt="DuckDB"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-1a1b27?style=flat-square&logoColor=white" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/Langfuse-1a1b27?style=flat-square&logoColor=white" alt="Langfuse"/>
+  <img src="https://img.shields.io/badge/Podman-1a1b27?style=flat-square&logoColor=white" alt="Podman"/>
+  <img src="https://img.shields.io/badge/FalkorDB-1a1b27?style=flat-square&logoColor=white" alt="FalkorDB"/>
 </p>
 
 ---
 
-## Backend
+### Competitive Programming
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,spring,postgres,mysql&perline=6"/>
+  <a href="https://codeforces.com/profile/Benzene-C6H6">
+    <img width="49%" src="./assets/codeforces-rating.svg" alt="Codeforces Rating Graph"/>
+  </a>
+  <a href="https://www.codechef.com/users/prathameshk28">
+    <img width="49%" src="./assets/codechef-rating.svg" alt="CodeChef Rating Graph"/>
+  </a>
 </p>
 
 ---
 
-## AI / Machine Learning
+### GitHub Analytics
 
 <p align="center">
-
-<img src="https://img.shields.io/badge/LangGraph-000000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/LangChain-0FA958?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/RAG-FF6B6B?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Multi--Agent-3B82F6?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FAISS-00599C?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Groq-FF4F00?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Cerebras-00D4AA?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Ollama-111827?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Llama-7C3AED?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/YOLOv12-FFB000?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge"/>
-
-</p>
-
----
-
-## DevOps & Tools
-
-<p align="center">
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,git,github,linux,postman,vscode,figma&perline=8"/>
-</p>
-
-# 🏆 Competitive Programming
-
-```text
-🏅 Codeforces : Pupil (Max Rating 1252)
-
-⭐ CodeChef : 3★
-
-🧠 Strong Problem Solving & Algorithms
-```
-
----
-
-# 🌱 Currently Learning
-
-- Agentic AI
-- AI Infrastructure
-- Kubernetes
-- Distributed Systems
-- Cloud Architecture
-- LLM Evaluation
-- Open Source
-
----
-
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathameshk421&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshk421&theme=tokyonight&hide_border=true"/>
-
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathameshk421&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshk421&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshk421&layout=compact&theme=tokyonight&hide_border=true"/>
-
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshk421&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 </p>
 
----
-
-# 📊 Contribution Graph
-
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshk421&theme=tokyo-night&hide_border=true"/>
-
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshk421&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
----
-
-# 🏆 GitHub Trophies
-
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=prathameshk421&theme=tokyonight&margin-w=10&margin-h=10&no-frame=true"/>
-
-</p>
-
----
-
-# 🤝 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/prathameshk421">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
-
-<a href="https://www.linkedin.com/in/prathamesh-kinagi-854781320/">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:prathameshkinagi421@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-</p>
-
----
-
-# ⚡ Fun Fact
-
-💡 If something works, I'm probably more interested in figuring out **why** it works than just using it.
-
----
-
-# 🐍 Contributions
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/prathameshk421/prathameshk421/output/github-contribution-grid-snake.svg"/>
-
-</p>
-
----
-
-<p align="center">
-
-<i>"Build. Break. Learn. Repeat."</i>
-
+  <img src="https://raw.githubusercontent.com/prathameshk421/prathameshk421/output/github-contribution-grid-snake.svg" alt="Contribution Snake"/>
 </p>

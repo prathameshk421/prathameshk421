@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="240" viewBox="0 0 540 240" role="img" aria-label="CodeChef · prathameshk28 Rating Graph">
+  <defs>
+    <linearGradient id="area-codechef" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#bb9af7" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#bb9af7" stop-opacity="0.01"/>
+    </linearGradient>
+    <clipPath id="clip-codechef">
+      <rect x="48" y="66" width="470" height="144" rx="4"/>
+    </clipPath>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
+  </style>
+
+  <rect x="0.5" y="0.5" width="539" height="239" rx="10" fill="#1a1b27" stroke="#292e42" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="20" y="30" font-size="15" font-weight="700" fill="#70a5fd">CodeChef · prathameshk28</text>
+  <rect x="432" y="14" width="88" height="22" rx="11" fill="#7aa2f7" fill-opacity="0.16" stroke="#7aa2f7" stroke-opacity="0.55" stroke-width="1"/>
+  <text x="476" y="29" text-anchor="middle" font-size="11" font-weight="600" fill="#7aa2f7">3★</text>
+  <text x="20" y="50" font-size="11.5" font-weight="500" fill="#a9b1d6">Current: 1641   ·   Peak: 1697   ·   Contests: 14</text>
+
+  <!-- Plot background bands -->
+  <g clip-path="url(#clip-codechef)">
+    <rect x="48" y="168.9" width="470" height="41.1" fill="#9aa5ce" fill-opacity="0.08"/><rect x="48" y="127.7" width="470" height="41.1" fill="#73daca" fill-opacity="0.08"/><rect x="48" y="86.6" width="470" height="41.1" fill="#7aa2f7" fill-opacity="0.08"/><rect x="48" y="66.0" width="470" height="20.6" fill="#bb9af7" fill-opacity="0.08"/>
+  </g>
+
+  <!-- Gridlines & axes -->
+  <line x1="48" y1="210.0" x2="518" y2="210.0" stroke="#24283b" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="213.5" text-anchor="end" font-size="10" fill="#565f89">1200</text><line x1="48" y1="168.9" x2="518" y2="168.9" stroke="#24283b" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="172.4" text-anchor="end" font-size="10" fill="#565f89">1400</text><line x1="48" y1="127.7" x2="518" y2="127.7" stroke="#24283b" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="131.2" text-anchor="end" font-size="10" fill="#565f89">1600</text><line x1="48" y1="86.6" x2="518" y2="86.6" stroke="#24283b" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="90.1" text-anchor="end" font-size="10" fill="#565f89">1800</text>
+  <line x1="48" y1="210" x2="518" y2="210" stroke="#292e42" stroke-width="1"/>
+  <text x="48.0" y="230" text-anchor="start" font-size="10" fill="#565f89">Jul '24</text><text x="204.7" y="230" text-anchor="middle" font-size="10" fill="#565f89">Feb '25</text><text x="361.3" y="230" text-anchor="middle" font-size="10" fill="#565f89">Sep '25</text><text x="518.0" y="230" text-anchor="end" font-size="10" fill="#565f89">Apr '26</text>
+
+  <!-- Area & Rating Curve -->
+  <path d="M 48.0 185.3 L 53.2 150.3 L 58.4 144.2 L 100.2 138.8 L 126.3 123.8 L 189.0 117.0 L 241.2 117.4 L 246.4 107.8 L 319.6 114.1 L 340.4 117.2 L 350.9 113.5 L 439.7 117.0 L 450.1 119.5 L 518.0 119.3 L 518.0 210.0 L 48.0 210.0 Z" fill="url(#area-codechef)" clip-path="url(#clip-codechef)"/>
+  <path d="M 48.0 185.3 L 53.2 150.3 L 58.4 144.2 L 100.2 138.8 L 126.3 123.8 L 189.0 117.0 L 241.2 117.4 L 246.4 107.8 L 319.6 114.1 L 340.4 117.2 L 350.9 113.5 L 439.7 117.0 L 450.1 119.5 L 518.0 119.3" fill="none" stroke="#bb9af7" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+
+  <!-- Points & Peak Marker -->
+  <circle cx="48.0" cy="185.3" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="53.2" cy="150.3" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="58.4" cy="144.2" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="100.2" cy="138.8" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="126.3" cy="123.8" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="189.0" cy="117.0" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="241.2" cy="117.4" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="246.4" cy="107.8" r="4.2" fill="#e0af68" stroke="#1a1b27" stroke-width="1.5"/><circle cx="319.6" cy="114.1" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="340.4" cy="117.2" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="350.9" cy="113.5" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="439.7" cy="117.0" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="450.1" cy="119.5" r="2.8" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/><circle cx="518.0" cy="119.3" r="4.2" fill="#bb9af7" stroke="#1a1b27" stroke-width="1.5"/>
+  <text x="246.4" y="98.8" text-anchor="middle" font-size="10.5" font-weight="700" fill="#e0af68">★ 1697</text>
+</svg>
