@@ -1,8 +1,8 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="540" height="240" viewBox="0 0 540 240" role="img" aria-label="Codeforces · Benzene-C6H6 Rating Graph">
   <defs>
     <linearGradient id="area-codeforces" x1="0" y1="0" x2="0" y2="1">
-      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.28"/>
-      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.01"/>
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#22d3ee" stop-opacity="0.01"/>
     </linearGradient>
     <clipPath id="clip-codeforces">
       <rect x="48" y="66" width="470" height="144" rx="4"/>
@@ -12,13 +12,13 @@
     text { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif; }
   </style>
 
-  <rect x="0.5" y="0.5" width="539" height="239" rx="10" fill="#0f141e" stroke="#33291a" stroke-width="1"/>
+  <rect x="0.5" y="0.5" width="539" height="239" rx="10" fill="#0f172a" stroke="#1e3a5f" stroke-width="1"/>
 
   <!-- Header -->
-  <text x="20" y="30" font-size="15" font-weight="700" fill="#f2c14e">Codeforces · Benzene-C6H6</text>
+  <text x="20" y="30" font-size="15" font-weight="700" fill="#22d3ee">Codeforces · Benzene-C6H6</text>
   <rect x="432" y="14" width="88" height="22" rx="11" fill="#38bdae" fill-opacity="0.16" stroke="#38bdae" stroke-opacity="0.55" stroke-width="1"/>
   <text x="476" y="29" text-anchor="middle" font-size="11" font-weight="600" fill="#38bdae">Max: Pupil</text>
-  <text x="20" y="50" font-size="11.5" font-weight="500" fill="#e6edf3">Current: 1155   ·   Peak: 1252   ·   Contests: 17</text>
+  <text x="20" y="50" font-size="11.5" font-weight="500" fill="#f8fafc">Current: 1155   ·   Peak: 1252   ·   Contests: 17</text>
 
   <!-- Plot background bands -->
   <g clip-path="url(#clip-codeforces)">
@@ -26,15 +26,15 @@
   </g>
 
   <!-- Gridlines & axes -->
-  <line x1="48" y1="196.9" x2="518" y2="196.9" stroke="#1f2633" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="200.4" text-anchor="end" font-size="10" fill="#8b949e">400</text><line x1="48" y1="170.7" x2="518" y2="170.7" stroke="#1f2633" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="174.2" text-anchor="end" font-size="10" fill="#8b949e">600</text><line x1="48" y1="144.5" x2="518" y2="144.5" stroke="#1f2633" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="148.0" text-anchor="end" font-size="10" fill="#8b949e">800</text><line x1="48" y1="118.4" x2="518" y2="118.4" stroke="#1f2633" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="121.9" text-anchor="end" font-size="10" fill="#8b949e">1000</text><line x1="48" y1="92.2" x2="518" y2="92.2" stroke="#1f2633" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="95.7" text-anchor="end" font-size="10" fill="#8b949e">1200</text><line x1="48" y1="66.0" x2="518" y2="66.0" stroke="#1f2633" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="69.5" text-anchor="end" font-size="10" fill="#8b949e">1400</text>
-  <line x1="48" y1="210" x2="518" y2="210" stroke="#33291a" stroke-width="1"/>
-  <text x="48.0" y="230" text-anchor="start" font-size="10" fill="#8b949e">May '24</text><text x="204.7" y="230" text-anchor="middle" font-size="10" fill="#8b949e">Jan '25</text><text x="361.3" y="230" text-anchor="middle" font-size="10" fill="#8b949e">Aug '25</text><text x="518.0" y="230" text-anchor="end" font-size="10" fill="#8b949e">Apr '26</text>
+  <line x1="48" y1="196.9" x2="518" y2="196.9" stroke="#1e293b" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="200.4" text-anchor="end" font-size="10" fill="#94a3b8">400</text><line x1="48" y1="170.7" x2="518" y2="170.7" stroke="#1e293b" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="174.2" text-anchor="end" font-size="10" fill="#94a3b8">600</text><line x1="48" y1="144.5" x2="518" y2="144.5" stroke="#1e293b" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="148.0" text-anchor="end" font-size="10" fill="#94a3b8">800</text><line x1="48" y1="118.4" x2="518" y2="118.4" stroke="#1e293b" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="121.9" text-anchor="end" font-size="10" fill="#94a3b8">1000</text><line x1="48" y1="92.2" x2="518" y2="92.2" stroke="#1e293b" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="95.7" text-anchor="end" font-size="10" fill="#94a3b8">1200</text><line x1="48" y1="66.0" x2="518" y2="66.0" stroke="#1e293b" stroke-width="1" stroke-dasharray="3,3"/><text x="40" y="69.5" text-anchor="end" font-size="10" fill="#94a3b8">1400</text>
+  <line x1="48" y1="210" x2="518" y2="210" stroke="#1e3a5f" stroke-width="1"/>
+  <text x="48.0" y="230" text-anchor="start" font-size="10" fill="#94a3b8">May '24</text><text x="204.7" y="230" text-anchor="middle" font-size="10" fill="#94a3b8">Jan '25</text><text x="361.3" y="230" text-anchor="middle" font-size="10" fill="#94a3b8">Aug '25</text><text x="518.0" y="230" text-anchor="end" font-size="10" fill="#94a3b8">Apr '26</text>
 
   <!-- Area & Rating Curve -->
   <path d="M 48.0 191.4 L 62.9 142.2 L 86.0 123.5 L 89.4 111.9 L 96.1 105.0 L 99.5 99.6 L 100.9 98.6 L 105.7 99.1 L 107.0 94.7 L 183.0 95.2 L 218.2 92.3 L 233.8 85.8 L 314.5 85.4 L 318.6 88.5 L 334.9 91.7 L 382.4 93.6 L 518.0 98.1 L 518.0 210.0 L 48.0 210.0 Z" fill="url(#area-codeforces)" clip-path="url(#clip-codeforces)"/>
-  <path d="M 48.0 191.4 L 62.9 142.2 L 86.0 123.5 L 89.4 111.9 L 96.1 105.0 L 99.5 99.6 L 100.9 98.6 L 105.7 99.1 L 107.0 94.7 L 183.0 95.2 L 218.2 92.3 L 233.8 85.8 L 314.5 85.4 L 318.6 88.5 L 334.9 91.7 L 382.4 93.6 L 518.0 98.1" fill="none" stroke="#38bdf8" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
+  <path d="M 48.0 191.4 L 62.9 142.2 L 86.0 123.5 L 89.4 111.9 L 96.1 105.0 L 99.5 99.6 L 100.9 98.6 L 105.7 99.1 L 107.0 94.7 L 183.0 95.2 L 218.2 92.3 L 233.8 85.8 L 314.5 85.4 L 318.6 88.5 L 334.9 91.7 L 382.4 93.6 L 518.0 98.1" fill="none" stroke="#22d3ee" stroke-width="2.2" stroke-linejoin="round" stroke-linecap="round"/>
 
   <!-- Points & Peak Marker -->
-  <circle cx="48.0" cy="191.4" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="62.9" cy="142.2" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="86.0" cy="123.5" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="89.4" cy="111.9" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="96.1" cy="105.0" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="99.5" cy="99.6" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="100.9" cy="98.6" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="105.7" cy="99.1" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="107.0" cy="94.7" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="183.0" cy="95.2" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="218.2" cy="92.3" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="233.8" cy="85.8" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="314.5" cy="85.4" r="4.2" fill="#f2c14e" stroke="#0f141e" stroke-width="1.5"/><circle cx="318.6" cy="88.5" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="334.9" cy="91.7" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="382.4" cy="93.6" r="2.8" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/><circle cx="518.0" cy="98.1" r="4.2" fill="#38bdf8" stroke="#0f141e" stroke-width="1.5"/>
-  <text x="314.5" y="78.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#f2c14e">★ 1252</text>
+  <circle cx="48.0" cy="191.4" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="62.9" cy="142.2" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="86.0" cy="123.5" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="89.4" cy="111.9" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="96.1" cy="105.0" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="99.5" cy="99.6" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="100.9" cy="98.6" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="105.7" cy="99.1" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="107.0" cy="94.7" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="183.0" cy="95.2" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="218.2" cy="92.3" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="233.8" cy="85.8" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="314.5" cy="85.4" r="4.2" fill="#facc15" stroke="#0f172a" stroke-width="1.5"/><circle cx="318.6" cy="88.5" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="334.9" cy="91.7" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="382.4" cy="93.6" r="2.8" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/><circle cx="518.0" cy="98.1" r="4.2" fill="#22d3ee" stroke="#0f172a" stroke-width="1.5"/>
+  <text x="314.5" y="78.0" text-anchor="middle" font-size="10.5" font-weight="700" fill="#facc15">★ 1252</text>
 </svg>

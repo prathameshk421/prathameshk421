@@ -20,16 +20,16 @@ ASSETS = ROOT / "assets"
 CF_HANDLE = "Benzene-C6H6"
 CC_HANDLE = "prathameshk28"
 
-# One Piece Grand Line Dark palette (Deep Ocean + Straw Hat Gold + Luffy Crimson)
-BG = "#0f141e"
-BORDER = "#33291a"
-TITLE = "#f2c14e"
-TEXT = "#e6edf3"
-MUTED = "#8b949e"
-GRID = "#1f2633"
-ACCENT_CF = "#38bdf8"
-ACCENT_CC = "#e63946"
-PEAK_COLOR = "#f2c14e"
+# Vibrant Electric Cyan & Magenta Dark palette
+BG = "#0f172a"
+BORDER = "#1e3a5f"
+TITLE = "#22d3ee"
+TEXT = "#f8fafc"
+MUTED = "#94a3b8"
+GRID = "#1e293b"
+ACCENT_CF = "#22d3ee"
+ACCENT_CC = "#f472b6"
+PEAK_COLOR = "#facc15"
 
 
 def fetch_text(url: str) -> str:
