@@ -1,7 +1,5 @@
-<h1 align="center">Prathamesh Kinagi</h1>
-
 <p align="center">
-  Full-Stack, AI Systems & Cloud Deployment
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bb9af7&height=180&section=header&text=Prathamesh%20Kinagi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%2C%20AI%20Systems%20%26%20Cloud%20Deployment&descAlignY=60&descSize=16" alt="Prathamesh Kinagi Header"/>
 </p>
 
 <p align="center">
@@ -28,7 +26,9 @@
   <img src="https://img.shields.io/github/followers/prathameshk421?style=flat-square&color=38bdae&labelColor=1a1b27" alt="GitHub Followers"/>
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://readme-design-kit.vercel.app/Assets/tech-pulse-dotted-line.gif" alt="Divider"/>
+</p>
 
 ### Selected Work
 
@@ -59,7 +59,9 @@
 - **Social Winter of Code:** Rank 278 with 4 merged pull requests.
 - **Competitive Programming:** Codeforces Pupil (Max 1252) · CodeChef 3★ (Max 1697).
 
----
+<p align="center">
+  <img width="100%" src="https://readme-design-kit.vercel.app/Assets/tech-pulse-dotted-line.gif" alt="Divider"/>
+</p>
 
 ### Tech Stack
 
@@ -94,7 +96,9 @@
   <img src="https://img.shields.io/badge/Playwright_%2F_Vitest-1a1b27?style=flat-square&logo=vitest&logoColor=9ece6a" alt="Playwright and Vitest"/>
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://readme-design-kit.vercel.app/Assets/tech-pulse-dotted-line.gif" alt="Divider"/>
+</p>
 
 ### Competitive Programming
 
@@ -107,9 +111,15 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img width="100%" src="https://readme-design-kit.vercel.app/Assets/tech-pulse-dotted-line.gif" alt="Divider"/>
+</p>
 
 ### GitHub Analytics
+
+<p align="center">
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathameshk421&theme=tokyonight" alt="Profile Summary Graph"/>
+</p>
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathameshk421&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
@@ -118,6 +128,10 @@
 
 <p align="center">
   <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshk421&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+</p>
+
+<p align="center">
+  <img width="85%" src="https://ssr-contributions-svg.vercel.app/_/prathameshk421?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=purple&dark=true" alt="3D Wave Contribution Graph"/>
 </p>
 
 <p align="center">
@@ -130,4 +144,8 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathameshk421/prathameshk421/output/github-contribution-grid-snake.svg"/>
     <img src="https://raw.githubusercontent.com/prathameshk421/prathameshk421/output/github-contribution-grid-snake-dark.svg" alt="Contribution Snake"/>
   </picture>
+</p>
+
+<p align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bb9af7&height=90&section=footer" alt="Footer Wave"/>
 </p>
