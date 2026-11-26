@@ -20,16 +20,16 @@ ASSETS = ROOT / "assets"
 CF_HANDLE = "Benzene-C6H6"
 CC_HANDLE = "prathameshk28"
 
-# Tokyo Night palette matching github-readme-stats (theme=tokyonight)
-BG = "#1a1b27"
-BORDER = "#292e42"
-TITLE = "#70a5fd"
-TEXT = "#a9b1d6"
-MUTED = "#565f89"
-GRID = "#24283b"
-ACCENT_CF = "#38bdae"
-ACCENT_CC = "#bb9af7"
-PEAK_COLOR = "#e0af68"
+# One Piece Grand Line Dark palette (Deep Ocean + Straw Hat Gold + Luffy Crimson)
+BG = "#0f141e"
+BORDER = "#33291a"
+TITLE = "#f2c14e"
+TEXT = "#e6edf3"
+MUTED = "#8b949e"
+GRID = "#1f2633"
+ACCENT_CF = "#38bdf8"
+ACCENT_CC = "#e63946"
+PEAK_COLOR = "#f2c14e"
 
 
 def fetch_text(url: str) -> str:

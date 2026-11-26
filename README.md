@@ -1,33 +1,33 @@
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bb9af7&height=180&section=header&text=Prathamesh%20Kinagi&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20%C2%B7%20AI%20Systems%20%C2%B7%20Cloud%20Deployment&descAlignY=60&descSize=16" alt="Prathamesh Kinagi Header"/>
+  <img width="100%" src="./assets/onepiece-header.svg" alt="Prathamesh Kinagi — Grand Line Header"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&center=true&vCenter=true&width=720&color=70A5FD&lines=Full-Stack+Web+Apps+%26+Backend+Systems;AI+Agents%2C+LLM+Post-Training+%26+Observability;Cloud+Deployment+%E2%80%94+AWS%2C+GCP%2C+Docker+%26+Terraform;Competitive+Programming+%E2%80%94+CF+Pupil+%C2%B7+CC+3%E2%98%85" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1200&center=true&vCenter=true&width=720&color=F2C14E&lines=Full-Stack+Web+Apps+%26+Backend+Systems;AI+Agents%2C+LLM+Post-Training+%26+Observability;Cloud+Deployment+%E2%80%94+AWS%2C+GCP%2C+Docker+%26+Terraform;Competitive+Programming+%E2%80%94+CF+Pupil+%C2%B7+CC+3%E2%98%85" alt="Typing SVG"/>
 </p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prathamesh-kinagi-854781320/">
-    <img src="https://img.shields.io/badge/LinkedIn-1a1b27?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iIzcwYTVmZCI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0f141e?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0iI2YyYzE0ZSI%2BPHBhdGggZD0iTTE5IDNhMiAyIDAgMCAxIDIgMnYxNGEyIDIgMCAwIDEtMiAySDVhMiAyIDAgMCAxLTItMlY1YTIgMiAwIDAgMSAyLTJoMTRtLS41IDE1LjV2LTUuM2EzLjI2IDMuMjYgMCAwIDAtMy4yNi0zLjI2Yy0uODUgMC0xLjg0LjUyLTIuMjggMS4zdi0xLjExaC0yLjc5djguMzdoMi43OXYtNC45M2MwLS43Ny42Mi0xLjQgMS4zOS0xLjRhMS40IDEuNCAwIDAgMSAxLjQgMS40djQuOTNoMi43NU02Ljg4IDguNTZhMS42OCAxLjY4IDAgMCAwIDEuNjgtMS42OGMwLS45My0uNzUtMS42OS0xLjY4LTEuNjlhMS42OSAxLjY5IDAgMCAwLTEuNjkgMS42OWMwIC45My43NiAxLjY4IDEuNjkgMS42OG0xLjM5IDkuOTR2LTguMzdINS41djguMzdoMi43N3oiLz48L3N2Zz4%3D" alt="LinkedIn"/>
   </a>
   <a href="mailto:prathameshkinagi421@gmail.com">
-    <img src="https://img.shields.io/badge/Email-1a1b27?style=for-the-badge&logo=gmail&logoColor=38bdae" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-0f141e?style=for-the-badge&logo=gmail&logoColor=e63946" alt="Email"/>
   </a>
   <a href="https://codeforces.com/profile/Benzene-C6H6">
-    <img src="https://img.shields.io/badge/Codeforces-1a1b27?style=for-the-badge&logo=codeforces&logoColor=38bdae" alt="Codeforces"/>
+    <img src="https://img.shields.io/badge/Codeforces-0f141e?style=for-the-badge&logo=codeforces&logoColor=38bdf8" alt="Codeforces"/>
   </a>
   <a href="https://www.codechef.com/users/prathameshk28">
-    <img src="https://img.shields.io/badge/CodeChef-1a1b27?style=for-the-badge&logo=codechef&logoColor=bb9af7" alt="CodeChef"/>
+    <img src="https://img.shields.io/badge/CodeChef-0f141e?style=for-the-badge&logo=codechef&logoColor=f2c14e" alt="CodeChef"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=prathameshk421&label=Profile+Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/prathameshk421?style=flat-square&color=38bdae&labelColor=1a1b27" alt="GitHub Followers"/>
+  <img src="https://komarev.com/ghpvc/?username=prathameshk421&label=Bounty+Views&color=e63946&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/prathameshk421?style=flat-square&color=f2c14e&labelColor=0f141e" alt="GitHub Followers"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://readme-design-kit.vercel.app/Assets/tech-pulse-dotted-line.gif" alt="Divider"/>
+  <img width="100%" src="./assets/onepiece-divider.svg" alt="Grand Line Divider"/>
 </p>
 
 ### Selected Work
@@ -60,7 +60,7 @@
 - **Competitive Programming:** Codeforces Pupil (Max 1252) · CodeChef 3★ (Max 1697).
 
 <p align="center">
-  <img width="100%" src="https://readme-design-kit.vercel.app/Assets/tech-pulse-dotted-line.gif" alt="Divider"/>
+  <img width="100%" src="./assets/onepiece-divider.svg" alt="Grand Line Divider"/>
 </p>
 
 ### Tech Stack
@@ -77,27 +77,27 @@
 
 **AI, ML & Observability**
 <p align="center">
-  <img src="https://img.shields.io/badge/LangGraph-1a1b27?style=flat-square&logo=langgraph&logoColor=70a5fd" alt="LangGraph"/>
-  <img src="https://img.shields.io/badge/MCP-1a1b27?style=flat-square&logo=modelcontextprotocol&logoColor=38bdae" alt="MCP"/>
-  <img src="https://img.shields.io/badge/RAG_%2F_pgvector_%2F_FAISS-1a1b27?style=flat-square&logo=postgresql&logoColor=70a5fd" alt="RAG"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-1a1b27?style=flat-square&logo=huggingface&logoColor=e0af68" alt="Hugging Face"/>
-  <img src="https://img.shields.io/badge/LoRA_%2F_SFT_%2F_GRPO-1a1b27?style=flat-square&logo=pytorch&logoColor=f7768e" alt="LLM Post-Training"/>
-  <img src="https://img.shields.io/badge/LightGBM-1a1b27?style=flat-square&logoColor=white" alt="LightGBM"/>
-  <img src="https://img.shields.io/badge/XGBoost-1a1b27?style=flat-square&logoColor=white" alt="XGBoost"/>
-  <img src="https://img.shields.io/badge/scikit--learn-1a1b27?style=flat-square&logo=scikitlearn&logoColor=ff9e64" alt="scikit-learn"/>
-  <img src="https://img.shields.io/badge/SHAP-1a1b27?style=flat-square&logoColor=white" alt="SHAP"/>
-  <img src="https://img.shields.io/badge/YOLOv12-1a1b27?style=flat-square&logo=ultralytics&logoColor=70a5fd" alt="YOLOv12"/>
-  <img src="https://img.shields.io/badge/OpenCV-1a1b27?style=flat-square&logo=opencv&logoColor=38bdae" alt="OpenCV"/>
-  <img src="https://img.shields.io/badge/DuckDB-1a1b27?style=flat-square&logo=duckdb&logoColor=e0af68" alt="DuckDB"/>
-  <img src="https://img.shields.io/badge/FalkorDB-1a1b27?style=flat-square&logoColor=white" alt="FalkorDB"/>
-  <img src="https://img.shields.io/badge/OpenTelemetry-1a1b27?style=flat-square&logo=opentelemetry&logoColor=7dcfff" alt="OpenTelemetry"/>
-  <img src="https://img.shields.io/badge/Langfuse-1a1b27?style=flat-square&logoColor=white" alt="Langfuse"/>
-  <img src="https://img.shields.io/badge/Podman-1a1b27?style=flat-square&logo=podman&logoColor=bb9af7" alt="Podman"/>
-  <img src="https://img.shields.io/badge/Playwright_%2F_Vitest-1a1b27?style=flat-square&logo=vitest&logoColor=9ece6a" alt="Playwright and Vitest"/>
+  <img src="https://img.shields.io/badge/LangGraph-0f141e?style=flat-square&logo=langgraph&logoColor=f2c14e" alt="LangGraph"/>
+  <img src="https://img.shields.io/badge/MCP-0f141e?style=flat-square&logo=modelcontextprotocol&logoColor=38bdf8" alt="MCP"/>
+  <img src="https://img.shields.io/badge/RAG_%2F_pgvector_%2F_FAISS-0f141e?style=flat-square&logo=postgresql&logoColor=38bdf8" alt="RAG"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-0f141e?style=flat-square&logo=huggingface&logoColor=f2c14e" alt="Hugging Face"/>
+  <img src="https://img.shields.io/badge/LoRA_%2F_SFT_%2F_GRPO-0f141e?style=flat-square&logo=pytorch&logoColor=e63946" alt="LLM Post-Training"/>
+  <img src="https://img.shields.io/badge/LightGBM-0f141e?style=flat-square&logoColor=f2c14e" alt="LightGBM"/>
+  <img src="https://img.shields.io/badge/XGBoost-0f141e?style=flat-square&logoColor=f2c14e" alt="XGBoost"/>
+  <img src="https://img.shields.io/badge/scikit--learn-0f141e?style=flat-square&logo=scikitlearn&logoColor=f2c14e" alt="scikit-learn"/>
+  <img src="https://img.shields.io/badge/SHAP-0f141e?style=flat-square&logoColor=f2c14e" alt="SHAP"/>
+  <img src="https://img.shields.io/badge/YOLOv12-0f141e?style=flat-square&logo=ultralytics&logoColor=38bdf8" alt="YOLOv12"/>
+  <img src="https://img.shields.io/badge/OpenCV-0f141e?style=flat-square&logo=opencv&logoColor=e63946" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/DuckDB-0f141e?style=flat-square&logo=duckdb&logoColor=f2c14e" alt="DuckDB"/>
+  <img src="https://img.shields.io/badge/FalkorDB-0f141e?style=flat-square&logoColor=f2c14e" alt="FalkorDB"/>
+  <img src="https://img.shields.io/badge/OpenTelemetry-0f141e?style=flat-square&logo=opentelemetry&logoColor=38bdf8" alt="OpenTelemetry"/>
+  <img src="https://img.shields.io/badge/Langfuse-0f141e?style=flat-square&logoColor=f2c14e" alt="Langfuse"/>
+  <img src="https://img.shields.io/badge/Podman-0f141e?style=flat-square&logo=podman&logoColor=e63946" alt="Podman"/>
+  <img src="https://img.shields.io/badge/Playwright_%2F_Vitest-0f141e?style=flat-square&logo=vitest&logoColor=f2c14e" alt="Playwright and Vitest"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://readme-design-kit.vercel.app/Assets/tech-pulse-dotted-line.gif" alt="Divider"/>
+  <img width="100%" src="./assets/onepiece-divider.svg" alt="Grand Line Divider"/>
 </p>
 
 ### Competitive Programming
@@ -112,30 +112,30 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://readme-design-kit.vercel.app/Assets/tech-pulse-dotted-line.gif" alt="Divider"/>
+  <img width="100%" src="./assets/onepiece-divider.svg" alt="Grand Line Divider"/>
 </p>
 
 ### GitHub Analytics
 
 <p align="center">
-  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathameshk421&theme=tokyonight" alt="Profile Summary Graph"/>
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=prathameshk421&theme=github_dark" alt="Profile Summary Graph"/>
 </p>
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathameshk421&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshk421&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prathameshk421&show_icons=true&bg_color=0f141e&title_color=f2c14e&icon_color=e63946&text_color=e6edf3&border_color=33291a&border_radius=10" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=prathameshk421&background=0f141e&ring=f2c14e&fire=e63946&currStreakLabel=f2c14e&sideLabels=e6edf3&currStreakNum=fde68a&sideNums=fde68a&dates=8b949e&stroke=33291a&border=33291a&border_radius=10" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshk421&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img width="44%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathameshk421&layout=compact&bg_color=0f141e&title_color=f2c14e&text_color=e6edf3&border_color=33291a&border_radius=10" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img width="85%" src="https://ssr-contributions-svg.vercel.app/_/prathameshk421?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&theme=purple&dark=true" alt="3D Wave Contribution Graph"/>
+  <img width="85%" src="https://ssr-contributions-svg.vercel.app/_/prathameshk421?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=34&colors=161b22,7f1d1d,b91c1c,e63946,f2c14e&dark=true" alt="3D Wave Contribution Graph"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshk421&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathameshk421&bg_color=0f141e&color=f2c14e&line=e63946&point=f2c14e&area=true&area_color=f2c14e&hide_border=true" alt="Contribution Activity Graph"/>
 </p>
 
 <p align="center">
@@ -147,5 +147,5 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1b27,50:70a5fd,100:bb9af7&height=90&section=footer" alt="Footer Wave"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f141e,55:8b1e24,100:f2c14e&height=90&section=footer" alt="Grand Line Footer Wave"/>
 </p>
